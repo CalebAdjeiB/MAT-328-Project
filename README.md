@@ -1,2 +1,2 @@
 # MAT-328-Project
-For Techniques in Data Science
+This dataset focuses on exoplanets (planets outside our solar system) discovered by NASA's various space missions, ground-based observatories, and other sources. I found the dataset from Kaggle however it originates from The NASA Exoplanet Archive, a database for all known exoplanets. Our universe is constantly expanding, so why not research and stay informed; we never know what we may find. The dataset includes information such as the planet's name, mass, radius, distance from Earth (light years), orbital period, discovery year, and other physical characteristics. It consists of both qualitative and quantitative data.
